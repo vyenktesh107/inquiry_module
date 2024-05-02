@@ -15,4 +15,6 @@ public class Email {
 	private String fromMail;
 	private String textMessage;
 	private String subject;
+	
+	//abs
 }
